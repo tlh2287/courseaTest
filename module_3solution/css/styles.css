@@ -1,0 +1,37 @@
+body {
+	background-color:white;
+	
+
+
+}
+header{
+	background-color: yellow;
+
+}
+
+/*.navbar-brand button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}*/
+#main-content{
+	background-color: red;
+	height: 1000px;
+	margin-top: 15px;
+}
+
+/*.icon-bar {
+	 width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}*/
+#collapsable-nav{
+	text-align: center;
+}
+#nav-list{
+	background-color: blue;
+	font-size: 1.2em;
+}
+/*#item1{
+	background-color:tan;
+}*/
