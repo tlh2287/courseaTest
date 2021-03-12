@@ -4399,7 +4399,7 @@ input[type="button"].btn-block {
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
-  content: "dropdown-menu-right";
+  content: "";
   background: no-repeat center center;
   background-size: 100% 100%;
 }
@@ -4926,6 +4926,7 @@ input[type="button"].btn-block {
     column-gap: 1.25rem;
     orphans: 1;
     widows: 1;
+    
   }
   .card-columns .card {
     display: inline-block;
